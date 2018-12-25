@@ -1,0 +1,12 @@
+{
+  "id": "zoho",
+  "name": "Zoho Mail",
+  "version": "1.0",
+  "description": "Zoho",
+  "main": "index.js",
+  "author": "Marcin Wozniak <marcinwozniak@zoho.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mail.zoho.com"
+  }
+}
